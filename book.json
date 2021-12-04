@@ -1,0 +1,70 @@
+{
+    "root": ".",
+    "author": "Hengyuan",
+    "title": "YUAN HANG CS·Lab",
+    "language": "zh-hans",
+    "description": "This is a Pages for YUAN HANG CS·Labb",
+    "direction": "ltr",
+    "gitbook": ">=3.2.3",
+    "structure": {
+        "readme": "README.md",
+        "summary": "SUMMARY.md"
+    },
+    "variables": {
+        "blog": "https://blog.csdn.net/ming_97y"
+    },
+    "links": {
+        "sidebar": {
+            "Blog": "rattlesnakey.github.io",
+            "Github": "https://github.com/rattlesnakey"
+        }
+    },
+    "styles": {
+        "website": "styles/website.css"
+    },
+    "plugins": [
+        "-lunr",
+        "-search",
+        "-sharing",
+        "advanced-emoji",
+        "search-plus",
+        "search-pro",
+        "github",
+        "splitter",
+        "anchor-navigation-ex",
+        "chapter-fold",
+        "expandable-chapters-small",
+        "code",
+        "alerts",
+        "insert-logo",
+        "flexible-alerts",
+        "copy-code-button",
+        "tbfed-pagefooter",
+        "disqus",
+        "multipart"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/rattlesnakey"
+        },
+        "insert-logo": {
+            "url": "https://s2.loli.net/2021/12/04/E2Z9NlpBYOhyeQX.png",
+            "style": "background: none; max-height: 100px; min-height: 30px"
+        },
+        "flexible-alerts": {
+            "style": "callout",
+            "comment": {
+                "label": "Comment",
+                "icon": "fa fa-comments",
+                "className": "info"
+            }
+        },
+        "tbfed-pagefooter":{
+            "copyright":"Copyright ©YUAN HANG CS·Lab"
+        },
+        "disqus": {
+            "shortName": "cslab-1"
+        }
+    }
+}
+
