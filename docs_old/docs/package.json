@@ -8,6 +8,7 @@
     "gitbook-plugin-disqus": "^0.1.0",
     "gitbook-plugin-expandable-chapters": "^0.2.0",
     "gitbook-plugin-favicon": "^0.0.2",
+    "gitbook-plugin-favicon-absolute": "^0.1.1",
     "gitbook-plugin-flexible-alerts": "^1.0.3",
     "gitbook-plugin-github": "^2.0.0",
     "gitbook-plugin-insert-logo": "^0.1.5",
