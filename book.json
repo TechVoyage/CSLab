@@ -23,14 +23,12 @@
         "github",
         "splitter",
         "anchor-navigation-ex",
-        "chapter-fold",
         "expandable-chapters",
         "code",
         "alerts",
         "insert-logo",
         "flexible-alerts",
         "disqus",
-        "multipart",
         "theme-comscore",
         "theme-fexa",
         "favicon"
@@ -55,16 +53,16 @@
             "shortName": "cslab-1"
         },
         "theme-fexa":{
-            "search-placeholder":"输入关键字搜索", 
-            "logo":"https://s2.loli.net/2021/12/04/uhF9o6eHBqptLfJ.jpg"
+            "search-placeholder":"输入关键字搜索",
+            "logo":"local_assets/our_logo.jpg"
         },
         "favicon":{
-            "shortcut": "https://s2.loli.net/2021/12/04/uhF9o6eHBqptLfJ.jpg",
-            "bookmark": "https://s2.loli.net/2021/12/04/uhF9o6eHBqptLfJ.jpg",
-            "appleTouch": "https://s2.loli.net/2021/12/04/uhF9o6eHBqptLfJ.jpg",
+            "shortcut": "local_assets/our_ico.ico",
+            "bookmark": "local_assets/our_ico.ico",
+            "appleTouch": "local_assets/our_ico.ico",
             "appleTouchMore": {
-                "120x120": "https://s2.loli.net/2021/12/04/uhF9o6eHBqptLfJ.jpg",
-                "180x180": "https://s2.loli.net/2021/12/04/uhF9o6eHBqptLfJ.jpg"
+                "120x120": "local_assets/our_ico.ico",
+                "180x180": "local_assets/our_ico.ico"
             }
         }
     }}
