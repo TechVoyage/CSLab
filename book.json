@@ -54,7 +54,7 @@
         },
         "theme-fexa":{
             "search-placeholder":"输入关键字搜索",
-            "logo":"local_assets/our_logo.jpg"
+            "logo":"local_assets/our_big_logo.jpg"
         },
         "favicon":{
             "shortcut": "local_assets/our_ico.ico",
