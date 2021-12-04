@@ -31,7 +31,7 @@
         "disqus",
         "theme-comscore",
         "theme-fexa",
-        "favicon"
+        "favicon-absolute"
     ],
     "pluginsConfig": {
         "github": {
@@ -53,17 +53,11 @@
             "shortName": "cslab-1"
         },
         "theme-fexa":{
-            "search-placeholder":"输入关键字搜索",
-            "logo":"local_assets/our_big_logo.jpg"
+            "search-placeholder":"输入关键字搜索"
         },
-        "favicon":{
-            "shortcut": "local_assets/our_ico.ico",
-            "bookmark": "local_assets/our_ico.ico",
-            "appleTouch": "local_assets/our_ico.ico",
-            "appleTouchMore": {
-                "120x120": "local_assets/our_ico.ico",
-                "180x180": "local_assets/our_ico.ico"
-            }
+        "favicon-absolute":{
+            "favicon": "local_assets/favicon.ico",
+            "appleTouchIconPrecomposed152": "local_assets/favicon.ico"
         }
     }}
 

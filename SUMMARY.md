@@ -7,4 +7,4 @@
 
 ## 维修
 
-* [😄 1.基本概念](wei-xiu/1.-ji-ben-gai-nian.md)
+* [😄 基本概念](wei-xiu/1.-ji-ben-gai-nian.md)
